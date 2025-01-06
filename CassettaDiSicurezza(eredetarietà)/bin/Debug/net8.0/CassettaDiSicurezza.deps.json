@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "CassettaDiSicurezza/1.0.0": {
+        "runtime": {
+          "CassettaDiSicurezza.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CassettaDiSicurezza/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
